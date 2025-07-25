@@ -1,0 +1,54 @@
+{
+  "name": "Abdelrahman",
+  "title": "Aspiring Front-End Developer & Business Student",
+  "summary": "I'm a third-year commerce student with a passion for front-end web development. I'm learning JavaScript, HTML, CSS, and aiming to combine my business background with technology. I have a strong commitment to learning and applying best practices.",
+  "education": [
+    {
+      "degree": "Bachelor of Commerce",
+      "university": "Cairo University",
+      "year": "Expected 2026",
+      "grade": "Good (جيد)"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Responsive Design",
+    "Git",
+    "Python (Basic)",
+    "MS Excel (for data analysis)",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "description": "A responsive website to showcase my work and skills.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cashier",
+      "company": "Juice Shop",
+      "description": "Handled customer transactions, managed order system, and maintained accuracy under pressure.",
+      "duration": "2024 - Present"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Good"
+    }
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "github": "https://github.com/your-username"
+  }
+}
